@@ -1,2 +1,8 @@
-# run nom install
-# run npm start
+# README
+
+
+
+```sh
+$ npm install 
+$ npm start
+```
